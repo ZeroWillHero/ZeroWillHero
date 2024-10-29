@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Chameera Sandakelum</h1>
-<h3 align="center">Enthusiastic Data Scientist & Mobile Application Developer | Part-Time Graphic Designer</h3>
+<h3 align="center">Enthusiastic Data Scientist & Mobile Application Developer | part time Software Developer</h3>
 
 <div align="center">
  
