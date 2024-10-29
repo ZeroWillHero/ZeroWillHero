@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Chameera Sandakelum</h1>
-<h3 align="center">Enthusiastic Data Scientist & Mobile Application Developer | part time Software Developer</h3>
+<h3 align="center">Enthusiastic Data Scientist & Mobile Application Developer | Part-Time Graphic Designer</h3>
 
 <div align="center">
  
@@ -17,6 +17,12 @@
 <p align="center">
   <a href="https://www.facebook.com/chameera.sandakelum.921" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chameera sandakelum" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@chameerasandakelum69" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chameera sandakelum" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/cha_mi_ra/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chameera sandakelum" height="30" width="40" />
   </a>
 </p>
 
