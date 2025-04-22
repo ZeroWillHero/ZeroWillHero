@@ -3,12 +3,12 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Chameera Sandakelum</h1>
-<h3 align="center">Enthusiastic Web developer & Mobile Application Developer | Part-Time Graphic Designer</h3>
+<h3 align="center">Enthusiastic Web developer & Mobile Application Developer</h3>
 
 <div align="center">
- 
+
+ 🥷 I’m currently working on *Axoten innovations*
  🔭 I’m currently working on *codescape solutions*
- 
  🌱 I’m currently working on  *Javascript, Python, Flutter, MySQL, MongoDB*
 
 </div>
