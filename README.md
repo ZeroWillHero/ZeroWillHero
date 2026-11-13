@@ -17,7 +17,7 @@ I build backend systems, mobile apps, and the infrastructure that connects them.
 ### About
 
 - 🎓 Final-year undergraduate
-- 🏗️ Building products under **CodeScape Labs** and **Axoten Innovations**
+- 🏗️ Building products under **Axoten Innovations**
 - ⚙️ Focused on clean architecture, scalable APIs and cross-platform mobile
 - 🔍 I like understanding systems deeply before reaching for abstractions
 
