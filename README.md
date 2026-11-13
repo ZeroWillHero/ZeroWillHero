@@ -33,10 +33,21 @@ I build backend systems, mobile apps, and the infrastructure that connects them.
 ### GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=ZeroWillHero&count_private=true&show_icons=true&hide_border=true&theme=transparent&hide_title=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ZeroWillHero&hide=HTML&langs_count=6&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ZeroWillHero&count_private=true&hide_border=true&background=00000000" alt="Streak stats" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=ZeroWillHero&count_private=true&show_icons=true&hide_border=true&hide_title=true&theme=github_dark&card_width=420" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=ZeroWillHero&count_private=true&show_icons=true&hide_border=true&hide_title=true&theme=default&card_width=420" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ZeroWillHero&hide=html,css,jupyter%20notebook&langs_count=6&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&theme=github_dark" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ZeroWillHero&hide=html,css,jupyter%20notebook&langs_count=6&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&theme=default" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=ZeroWillHero&count_private=true&hide_border=true&theme=github-dark-blue" />
+  <img alt="Streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ZeroWillHero&count_private=true&hide_border=true&theme=default" />
+</picture>
+
 </div>
 
 ---
