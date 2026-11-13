@@ -1,44 +1,46 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&color:green&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!;+I'm+Chameera+Sandakelum!;" />
-</h1>
-
-<h1 align="center">Hi 👋, I'm Chameera Sandakelum</h1>
-<h3 align="center">Enthusiastic Web developer & Mobile Application Developer</h3>
-
 <div align="center">
 
- 🥷 I’m currently working on *Axoten innovations*
- 🔭 I’m currently working on *codescape solutions*
- 🌱 I’m currently working on  *Javascript, Python, Flutter, MySQL, MongoDB*
+# Chameera Sandakelum
+
+**Full-Stack & Mobile Developer** · Sri Lanka 🇱🇰
+
+I build backend systems, mobile apps, and the infrastructure that connects them.
+
+[![Medium](https://img.shields.io/badge/Medium-000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@chameerasandakelum69)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/chameera.sandakelum.921)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cha_mi_ra/)
 
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.facebook.com/chameera.sandakelum.921" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chameera sandakelum" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@chameerasandakelum69" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chameera sandakelum" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/cha_mi_ra/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chameera sandakelum" height="30" width="40" />
-  </a>
+---
+
+### About
+
+- 🎓 Final-year undergraduate
+- 🏗️ Building products under **CodeScape Labs** and **Axoten Innovations**
+- ⚙️ Focused on clean architecture, scalable APIs and cross-platform mobile
+- 🔍 I like understanding systems deeply before reaching for abstractions
+
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,python,fastapi&theme=light" /><br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,react&theme=light" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,linux,git&theme=light" />
 </p>
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,photoshop,illustrator,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,c,java,mysql,flutter,dart" /><br>
-  </a>
-</p>
+### GitHub Activity
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ZeroWillHero&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ZeroWillHero&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=ZeroWillHero&count_private=true&show_icons=true&hide_border=true&theme=transparent&hide_title=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ZeroWillHero&hide=HTML&langs_count=6&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ZeroWillHero&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ZeroWillHero&count_private=true&hide_border=true&background=00000000" alt="Streak stats" />
+</div>
+
+---
+
+<div align="center">
+<sub>Open to collaboration on backend, mobile and data projects.</sub>
 </div>
